@@ -1,0 +1,65 @@
+commit 18766c1ed182bc45d9ccebebd3aafe6e3afb906c
+Author: Winterisme6 <lopez03william@gmail.com>
+Date:   Tue Feb 10 14:34:09 2026 -0800
+
+    Add repo-location
+
+commit a5d8b8b898bf6a0b9d995e193c954e7a48868de7
+Merge: ba5bdf6 58fbb77
+Author: Winterisme6 <lopez03william@gmail.com>
+Date:   Tue Feb 10 14:27:42 2026 -0800
+
+    On main: !!GitHub_Desktop<main>
+
+commit 58fbb7729305b193071642de34773ed22fd690cf
+Author: Winterisme6 <lopez03william@gmail.com>
+Date:   Tue Feb 10 14:27:42 2026 -0800
+
+    index on main: ba5bdf6 Updating again
+
+commit ba5bdf6b781d59116131961e545aa9155176fd4c
+Author: Winterisme6 <lopez03william@gmail.com>
+Date:   Tue Feb 10 14:14:13 2026 -0800
+
+    Updating again
+    
+    There was a bug on my end, so I'm reuploading it.
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
